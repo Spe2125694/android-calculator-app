@@ -17,5 +17,6 @@
     <string name="subtract">-</string>
     <string name="equals">=</string>
     <string name="clear">CLR</string>
-    <string name="calcText">.</string>
+    <string name="calcText">0</string>
+    <string name="dot">.</string>
 </resources>
